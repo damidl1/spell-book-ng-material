@@ -1,0 +1,13 @@
+.home-button-container{
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+  justify-self: center;
+  align-self: center;
+  align-items: center;
+}
+
+* html, body{
+  display: flex;
+  flex-direction: column;
+}
